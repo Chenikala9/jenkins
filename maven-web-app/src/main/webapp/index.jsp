@@ -1,11 +1,9 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Ashok IT <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
-
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<h1><font color='red'>Welcome to Govardhan devops &a aws <font></h1>
+  <h2>Learn Here.. Lead Anywhere..!! </h2>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> Call Us : + 91 7893725206</h2>
 
 </body>
 </html>
